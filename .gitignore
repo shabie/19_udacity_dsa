@@ -107,4 +107,4 @@ venv.bak/
 .idea/
 
 # Jupyter
-.ipynb_checkpoints
+.ipynb_checkpoints*.html
